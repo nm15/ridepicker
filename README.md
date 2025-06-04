@@ -29,7 +29,7 @@ pip install -f requirements.txt
 Clone the project
 
 ```bash
-  git clone https://github.com/
+  git clone https://github.com/nm15/ridepicker.git
 ```
 
 Go to the project directory
