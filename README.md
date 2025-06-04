@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <h1>Ride Picker</h1>
 
@@ -47,14 +47,14 @@ Install dependencies
 Starting user interaction shell
 
 ```bash
-  Example run:
+Example run:
   
-  python main.py --start 8:00AM --end 10:00AM --age 10 --height 120 --categories "Transportation" "Boat Ride"
+python main.py --start 8:00AM --end 10:00AM --age 10 --height 120 --categories "Transportation" "Boat Ride"
 
-  Available commands: 
-  help          - Show this help message
-  run           - To run current configuration
-  status        - Show current configuration
-  start/end/age/height/categories   - Add parameters to user shell
-  exit/quit/q   - Exit the shell
+Available commands:
+help          - Show this help message
+run           - To run current configuration
+status        - Show current configuration
+start/end/age/height/categories   - Add parameters to user shell
+exit/quit/q   - Exit the shell
 ```
